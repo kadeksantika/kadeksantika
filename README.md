@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful projects a
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadeksantika&show_icons=true&theme=radical)
 
 ---
 
