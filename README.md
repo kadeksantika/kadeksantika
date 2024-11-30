@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **Frontend Enthusiast** based in Bali, Indon
    A group project about tourism villages in Bali, designed as a microservice architecture integrating both web and mobile platforms.  
    - **My Role:** Worked on mobile Android (Flutter) and APIs (Laravel).  
 
-### 2. [Bali Sakuraba](https://www.balisakuraba.com/)  
+### 2. [Bali Saku Raba](https://www.balisakuraba.com/)  
    A Laravel-based website developed for a tour agency in Bali.  
 
 ---
