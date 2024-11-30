@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kadek Santika!
 
 Welcome to my GitHub profile! I'm passionate about building impactful projects and continuously learning new technologies. Here's a bit about me:
 
