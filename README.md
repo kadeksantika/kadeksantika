@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Frontend Enthusiast** based in Bali, Indon
 - 🎓 **Education:** Software Engineering Student at Bali State Polytechnic  
 - 🌱 **Currently Learning:** Frontend technologies and expanding my tech stack  
 - 🎯 **Goal:** Learn as many new technologies as possible to build impactful solutions  
-- 💼 **Internship:** Currently interning at **Asian Dive Academy Group Pte. Ltd.** as a **Frontend Developer**.  
+- 💼 **Internship:** Currently interning at **Asian Dive Academy Group Pte. Ltd.** as a **Website Developer**.  
 
 ---
 
